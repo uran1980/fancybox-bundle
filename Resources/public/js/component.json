@@ -2,7 +2,7 @@
 	"name": "fancyBox",
 	"title": "fancyBox",
 	"description": "fancyBox is a tool that offers a nice and elegant way to add zooming functionality for images, html content and multi-media on your webpages.",
-	"version": "2.1.1",
+	"version": "2.1.4",
 	"homepage": "http://www.fancyapps.com/fancybox/",
 	"author": {
 		"name": "Jānis Skarnelis",

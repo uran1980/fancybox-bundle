@@ -3,7 +3,7 @@ FancyBox Bundle for Symfony2
 
 ## Current Version
 
-fancyBox 2.1.1
+fancyBox 2.1.4
 
 ## Installation
 
