@@ -3,7 +3,7 @@ FancyBox Bundle for Symfony2
 
 ## Current Version
 
-jQuery 1.8.3
+fancyBox 2.1.1
 
 ## Installation
 
@@ -60,7 +60,7 @@ $ php app/console assets:install --symlink web
 Refer to the desired files in your HTML template, e.g.
 
 ``` html
-<script type="text/javascript" src="{{ asset('bundles/uran1980fancybox/js/fancybox.min.js') }}"></script>
+<script type="text/javascript" src="{{ asset('bundles/uran1980fancybox/js/fancybox/source/jquery.fancybox.pack.js') }}"></script>
 ```
 
 ## Licenses
