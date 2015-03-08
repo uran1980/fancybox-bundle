@@ -2,6 +2,7 @@
     "name":        "uran1980/fancybox-bundle",
     "type":        "symfony-bundle",
     "description": "jQuery FancyBox Bundle for Symfony2",
+    "version": "0.0.1",
     "keywords":    ["jquery", "fancybox", "javascript", "symfony"],
     "homepage":    "http://www.fancyapps.com/fancybox/",
     "license":     ["MIT", "GPLv2"],
