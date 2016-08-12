@@ -60,6 +60,8 @@ $ php app/console assets:install --symlink web
 Refer to the desired files in your HTML template, e.g.
 
 ``` html
+<link rel="stylesheet" href="{{ asset('bundles/uran1980fancybox/js/fancybox/source/jquery.fancybox.css') }}">
+
 <script type="text/javascript" src="{{ asset('bundles/uran1980fancybox/js/fancybox/source/jquery.fancybox.pack.js') }}"></script>
 ```
 
